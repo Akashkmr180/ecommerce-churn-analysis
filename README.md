@@ -1,7 +1,7 @@
 # E-Commerce Customer Churn Analysis
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![XGBoost](https://img.shields.io/badge/XGBoost-1.7-green)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-3.2.0-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
